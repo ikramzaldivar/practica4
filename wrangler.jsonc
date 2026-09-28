@@ -1,0 +1,8 @@
+{
+	"name": "practica4-ikram",
+	"main": "src/index.ts",
+	"compatibility_date": "2026-09-27",
+	"observability": {
+		"enabled": true,
+	},
+}
